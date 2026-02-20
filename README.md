@@ -116,7 +116,7 @@ Chaque dépôt a un **rôle précis** — chaque contribution a sa place :
 | Dépôt | Rôle |
 |---|---|
 | 📁 `analyse` | Recherche & besoins |
-| 📁 `conception` | Architecture technique |
+| 📁 `conception` | Architecture de base de données |
 | 📁 `maquettage` | Design & UI/UX |
 | 📁 `app` | Code de l'application |
 | 📁 `docs` | Méthode de travail |
