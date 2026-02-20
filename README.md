@@ -103,7 +103,7 @@ footer: '© 2026 Team Project'
 
 Travailler en équipe sur un projet complexe nécessite une **structure claire**.
 
-Chaque dépôt a un **rôle précis** — chaque contribution a sa place :
+Tous nos dépôts sont regroupés au sein d'une **organisation: Final-Project-Solicode-Website**.
 
 - ✅ Collaborer sans bloquer les autres
 - ✅ Garder un historique propre et lisible
@@ -112,6 +112,8 @@ Chaque dépôt a un **rôle précis** — chaque contribution a sa place :
 ---
 
 ## 2. Les 7 dépôts
+
+Tous regroupés dans notre **organisation GitHub**
 
 | Dépôt | Rôle |
 |---|---|
